@@ -166,6 +166,7 @@
     </section>
     <!-- End Categories Section -->
 
+
     <!-- Start Popular Courses Section -->
     <section id="courses" class="mt-12">
         <div class="container mx-auto">
